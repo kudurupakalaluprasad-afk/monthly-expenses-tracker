@@ -1,0 +1,12 @@
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\controller\AuthController.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\controller\ExpenseController.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\dto\AuthResponse.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\dto\LoginRequest.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\dto\RegisterRequest.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\entity\Expense.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\entity\User.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\ExpenseTrackerApplication.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\repository\ExpenseRepository.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\repository\UserRepository.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\service\ExpenseService.java
+C:\Users\indur\Desktop\project\monthly_expenses\backend\src\main\java\com\expense\service\UserService.java

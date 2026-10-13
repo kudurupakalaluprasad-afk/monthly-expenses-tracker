@@ -1,0 +1,12 @@
+com\expense\service\UserService.class
+com\expense\controller\AuthController.class
+com\expense\ExpenseTrackerApplication.class
+com\expense\dto\RegisterRequest.class
+com\expense\repository\UserRepository.class
+com\expense\dto\AuthResponse.class
+com\expense\dto\LoginRequest.class
+com\expense\service\ExpenseService.class
+com\expense\entity\Expense.class
+com\expense\controller\ExpenseController.class
+com\expense\repository\ExpenseRepository.class
+com\expense\entity\User.class
