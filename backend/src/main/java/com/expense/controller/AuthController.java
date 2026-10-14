@@ -16,6 +16,9 @@ import java.util.Map;
  */
 @RestController
 @RequestMapping("/api/auth")
+@CrossOrigin(origins = {
+    "https://monthly-expenses-tracker-swart.vercel.app"
+})
 public class AuthController {
 
     private final UserService userService;
