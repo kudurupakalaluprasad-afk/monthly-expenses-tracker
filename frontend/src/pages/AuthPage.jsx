@@ -246,39 +246,7 @@ function AuthPage({ onAuthSuccess }) {
                 )}
               </button>
             </form>
-
-            {/* Quick Demo Login Shortcuts */}
-            <div className="demo-accounts-section">
-              <div className="demo-divider">
-                <span>Quick Demo Accounts</span>
-              </div>
-              <div className="demo-buttons-grid">
-                <button
-                  type="button"
-                  className="demo-user-btn"
-                  onClick={() => handleQuickDemoLogin('alex', '123456')}
-                  disabled={isLoading}
-                >
-                  <UserCheck size={16} className="text-blue" />
-                  <div>
-                    <strong>Alex Rivera</strong>
-                    <span className="demo-subtitle">alex / 123456</span>
-                  </div>
-                </button>
-                <button
-                  type="button"
-                  className="demo-user-btn"
-                  onClick={() => handleQuickDemoLogin('jordan', '123456')}
-                  disabled={isLoading}
-                >
-                  <UserCheck size={16} className="text-purple" />
-                  <div>
-                    <strong>Jordan Smith</strong>
-                    <span className="demo-subtitle">jordan / 123456</span>
-                  </div>
-                </button>
-              </div>
-            </div>
+            
           </div>
         </div>
 
