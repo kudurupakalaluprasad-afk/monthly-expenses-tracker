@@ -17,6 +17,9 @@ import java.util.List;
  */
 @RestController
 @RequestMapping("/api/expenses")
+@CrossOrigin(origins = {
+    "https://monthly-expenses-tracker-swart.vercel.app"
+})
 public class ExpenseController {
 
     private final ExpenseService expenseService;
